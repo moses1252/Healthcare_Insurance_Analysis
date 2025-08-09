@@ -1,4 +1,4 @@
-# Insurance Analysis
+# Healthcare Insurance Analysis
 
 ## Table of Contents
 
