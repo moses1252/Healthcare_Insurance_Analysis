@@ -9,7 +9,7 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
-This data analysis project explores a fictional insurance dataset using Excel for data cleaning, preparation, and analysis, followed by Power BI for creating an interactive dashboard. The goal was to identify trends in patient demographics, lifestyle factors, and their impact on medical charges. Key variables analyzed include age group, BMI category, smoking status, region, and number of children.
+This data analysis project explored a fictional insurance dataset using Excel for data cleaning, preparation, and analysis, followed by Power BI for creating an interactive dashboard. The goal was to identify trends in patient demographics, lifestyle factors, and their impact on medical charges. Key variables analyzed include age group, BMI category, smoking status, region, and number of children.
 
 To simulate a real-world business scenario, I collaborated with ChatGPT acting as both a Product Manager and a Stakeholder to define objectives, KPIs, and reporting requirements. The entire process—from raw data to final dashboard—was completed without following YouTube tutorials, showcasing my independent problem-solving skills and ability to deliver a data project from start to finish. This project highlights my proficiency in both Excel analysis and Power BI visualization.
 
@@ -56,9 +56,9 @@ These steps ensured the dataset was accurate, consistent, and ready for visualiz
 
 During the EDA phase, I explored the dataset to uncover initial patterns and areas worth deeper investigation:
 
-- Noticed that smokers tended to have significantly higher insurance charges compared to non-smokers.
-- Found that certain regions, particularly the Southeast, had a higher concentration of smokers.
-- Observed that older adults generally had higher average charges, especially those with higher BMI values.
+- Noticed that smokers tend to have significantly higher insurance charges compared to non-smokers.
+- Found that certain regions, particularly the Southeast, have a higher concentration of smokers.
+- Observed that older adults generally have higher average charges, especially those with higher BMI values.
 - Detected small variations in average charges between males and females, but no major imbalance in gender distribution.
 - Identified a relatively even spread of patients across regions, with slight differences in average charges per region.
 - These findings helped guide which KPIs to focus on during the formal analysis stage.
@@ -70,7 +70,7 @@ Once KPIs were defined, I calculated them in Excel and visualized them in Power 
 
 - Total Patients: 1,338 individuals in the dataset.
 - Percentage of Smokers: 20.4% of patients identified as smokers.
-- Average Charges: $13,500 per patient across the dataset.
+- Average Charges: $13,500 USD per patient across the dataset.
 - Charges by Age Group: Seniors accounted for 25% of total charges despite representing a smaller portion of patients.
 - Charges by Region: The Southeast region had the highest average charges at $14,200.
 - Children per Family: Average of 1.09 children per patient household.
